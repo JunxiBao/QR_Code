@@ -1,3 +1,4 @@
+#From JunxiBao
 import qrcode
 
 # 获取用户输入的字符串
