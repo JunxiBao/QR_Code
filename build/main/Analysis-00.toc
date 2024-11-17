@@ -2187,25 +2187,25 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libfreetype.6.dylib',
    'BINARY'),
-  ('PIL/.dylibs/libopenjp2.2.5.2.dylib',
+  ('PIL/.dylibs/libz.1.3.1.dylib',
    '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libopenjp2.2.5.2.dylib',
-   'BINARY'),
-  ('PIL/.dylibs/libjpeg.62.4.0.dylib',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libjpeg.62.4.0.dylib',
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libz.1.3.1.dylib',
    'BINARY'),
   ('PIL/.dylibs/libtiff.6.dylib',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libtiff.6.dylib',
    'BINARY'),
+  ('PIL/.dylibs/libjpeg.62.4.0.dylib',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libjpeg.62.4.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libopenjp2.2.5.2.dylib',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libopenjp2.2.5.2.dylib',
+   'BINARY'),
   ('PIL/.dylibs/libxcb.1.1.0.dylib',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libxcb.1.1.0.dylib',
-   'BINARY'),
-  ('PIL/.dylibs/libz.1.3.1.dylib',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libz.1.3.1.dylib',
    'BINARY'),
   ('PIL/.dylibs/libwebpdemux.2.dylib',
    '/Users/junxibao/Library/Mobile '
@@ -2223,13 +2223,13 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/liblcms2.2.dylib',
    'BINARY'),
-  ('PIL/.dylibs/libbrotlidec.1.1.0.dylib',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libbrotlidec.1.1.0.dylib',
-   'BINARY'),
   ('PIL/.dylibs/libpng16.16.dylib',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libpng16.16.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libbrotlidec.1.1.0.dylib',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PIL/.dylibs/libbrotlidec.1.1.0.dylib',
    'BINARY'),
   ('PIL/.dylibs/liblzma.5.dylib',
    '/Users/junxibao/Library/Mobile '
@@ -2253,6 +2253,22 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/build/main/base_library.zip',
    'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/WHEEL',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/WHEEL',
+   'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/LICENSE',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/LICENSE',
+   'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/REQUESTED',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/REQUESTED',
+   'DATA'),
+  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/INSTALLER',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/INSTALLER',
+   'DATA'),
   ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/METADATA',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/METADATA',
@@ -2265,36 +2281,12 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/top_level.txt',
    'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/REQUESTED',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/REQUESTED',
-   'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/WHEEL',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/WHEEL',
-   'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/INSTALLER',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/INSTALLER',
-   'DATA'),
-  ('setuptools/_vendor/importlib_metadata-8.0.0.dist-info/LICENSE',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/importlib_metadata-8.0.0.dist-info/LICENSE',
-   'DATA'),
   ('setuptools/_vendor/jaraco/text/Lorem ipsum.txt',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/jaraco/text/Lorem '
    'ipsum.txt',
    'DATA'),
   ('Python', 'Python.framework/Versions/3.13/Python', 'SYMLINK'),
-  ('setuptools/_vendor/wheel-0.43.0.dist-info/LICENSE.txt',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/LICENSE.txt',
-   'DATA'),
-  ('setuptools/_vendor/wheel-0.43.0.dist-info/entry_points.txt',
-   '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/entry_points.txt',
-   'DATA'),
   ('setuptools/_vendor/wheel-0.43.0.dist-info/WHEEL',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/WHEEL',
@@ -2303,9 +2295,9 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/METADATA',
    'DATA'),
-  ('setuptools/_vendor/wheel-0.43.0.dist-info/INSTALLER',
+  ('setuptools/_vendor/wheel-0.43.0.dist-info/entry_points.txt',
    '/Users/junxibao/Library/Mobile '
-   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/INSTALLER',
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/entry_points.txt',
    'DATA'),
   ('setuptools/_vendor/wheel-0.43.0.dist-info/RECORD',
    '/Users/junxibao/Library/Mobile '
@@ -2315,22 +2307,30 @@
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/REQUESTED',
    'DATA'),
+  ('setuptools/_vendor/wheel-0.43.0.dist-info/LICENSE.txt',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/LICENSE.txt',
+   'DATA'),
+  ('setuptools/_vendor/wheel-0.43.0.dist-info/INSTALLER',
+   '/Users/junxibao/Library/Mobile '
+   'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/setuptools/_vendor/wheel-0.43.0.dist-info/INSTALLER',
+   'DATA'),
   ('liblzma.5.dylib', 'PIL/.dylibs/liblzma.5.dylib', 'SYMLINK'),
   ('libharfbuzz.0.dylib', 'PIL/.dylibs/libharfbuzz.0.dylib', 'SYMLINK'),
   ('libfreetype.6.dylib', 'PIL/.dylibs/libfreetype.6.dylib', 'SYMLINK'),
-  ('libopenjp2.2.5.2.dylib', 'PIL/.dylibs/libopenjp2.2.5.2.dylib', 'SYMLINK'),
-  ('libjpeg.62.4.0.dylib', 'PIL/.dylibs/libjpeg.62.4.0.dylib', 'SYMLINK'),
-  ('libtiff.6.dylib', 'PIL/.dylibs/libtiff.6.dylib', 'SYMLINK'),
-  ('libxcb.1.1.0.dylib', 'PIL/.dylibs/libxcb.1.1.0.dylib', 'SYMLINK'),
   ('libz.1.3.1.dylib', 'PIL/.dylibs/libz.1.3.1.dylib', 'SYMLINK'),
+  ('libtiff.6.dylib', 'PIL/.dylibs/libtiff.6.dylib', 'SYMLINK'),
+  ('libjpeg.62.4.0.dylib', 'PIL/.dylibs/libjpeg.62.4.0.dylib', 'SYMLINK'),
+  ('libopenjp2.2.5.2.dylib', 'PIL/.dylibs/libopenjp2.2.5.2.dylib', 'SYMLINK'),
+  ('libxcb.1.1.0.dylib', 'PIL/.dylibs/libxcb.1.1.0.dylib', 'SYMLINK'),
   ('libwebpdemux.2.dylib', 'PIL/.dylibs/libwebpdemux.2.dylib', 'SYMLINK'),
   ('libwebp.7.dylib', 'PIL/.dylibs/libwebp.7.dylib', 'SYMLINK'),
   ('libwebpmux.3.dylib', 'PIL/.dylibs/libwebpmux.3.dylib', 'SYMLINK'),
   ('liblcms2.2.dylib', 'PIL/.dylibs/liblcms2.2.dylib', 'SYMLINK'),
+  ('libpng16.16.dylib', 'PIL/.dylibs/libpng16.16.dylib', 'SYMLINK'),
   ('libbrotlidec.1.1.0.dylib',
    'PIL/.dylibs/libbrotlidec.1.1.0.dylib',
    'SYMLINK'),
-  ('libpng16.16.dylib', 'PIL/.dylibs/libpng16.16.dylib', 'SYMLINK'),
   ('libXau.6.0.0.dylib', 'PIL/.dylibs/libXau.6.0.0.dylib', 'SYMLINK'),
   ('libsharpyuv.0.dylib', 'PIL/.dylibs/libsharpyuv.0.dylib', 'SYMLINK'),
   ('libbrotlicommon.1.1.0.dylib',

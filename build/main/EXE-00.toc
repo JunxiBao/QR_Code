@@ -73,7 +73,7 @@
  [],
  False,
  False,
- 1731844183,
+ 1731844431,
  [('run',
    '/Users/junxibao/Library/Mobile '
    'Documents/com~apple~CloudDocs/鲍俊希/vscode-code/vscode-python/QR_Code/.venv/lib/python3.13/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
