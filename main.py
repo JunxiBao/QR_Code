@@ -20,6 +20,6 @@ qr.make(fit=True)
 img = qr.make_image(fill='black', back_color='white')
 
 # 保存图片文件
-img.save("QR.png")
+img.save("/Users/junxibao/Downloads/QR.png")
 
 print("二维码已生成并保存在当前目录下的 'QR.png' 文件中。感谢使用！")
